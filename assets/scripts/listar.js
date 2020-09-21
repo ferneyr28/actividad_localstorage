@@ -4,7 +4,7 @@ if(typeof(Storage) !== 'undefined') {
     console.log(listaUsuarios);
 
     let dibuajarTabla = `
-                        <table>
+                        <table border="1">
                         <th>ID</th>
                         <th>Artista</th>
                         <th>Album</th>
